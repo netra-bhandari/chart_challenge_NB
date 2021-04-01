@@ -1,0 +1,2 @@
+# chart_challenge_NB
+Through this amazing challenge I would try to make use of amazing R packages for improving my data viz for next 30 days! -Starting with simple fun stuff and moving on to more sophisticated and interesting graphs is my goal for this challenge  To know more about other contributions refer to twitter with #30dayschartchallenge or this link https://github.com/dominicroye/rstats-chart-challenge-2021 I would appreciate your comments and suggestions to improve
